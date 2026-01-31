@@ -3,7 +3,7 @@
 import pandas as pd
 import subprocess
 
-path='/scratch/oraofss/SUSHMA/csv/new_participants.csv'
+path='/scratch/user/csv/new_participants.csv'
 
 df= pd.read_csv(path)
 
